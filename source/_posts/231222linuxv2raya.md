@@ -8,6 +8,10 @@ categories:
 excerpt: 鉴于clash的作者已经不再维护clash，而且最近在用很多国内的linux服务器跑代码，所以就想着在linux上使用v2raya代理
 date: 2024-01-31 22:01:59
 ---
+# 2024-07-27更新
+最近因为各种服务器都需要连网，因此自己写了一个可以在短期内很好的遵循的指导（tutorial）来配置v2raya代理，欢迎大家试用。debian系如Ubuntu，raspbian等都可以使用。
+
+项目链接:[一个简易的不自动化的autodl部署自己的代理的指南，帮助下载huggingface的模型](https://github.com/TT2TER/autodl_proxy)
 
 # 在windows上使用v2rayn代理即可
 # 在Linux上使用v2raya代理
