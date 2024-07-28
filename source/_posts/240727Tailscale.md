@@ -72,14 +72,4 @@ ssh ubuntu@device
 我用宿舍的工控机和手机尝试了一下，不是很好用，流量没有转发。因为没有需求，因此没有进一步尝试。
 
 ### 建议配合tmux等工具一起使用，断网不心疼
-
-tmux 中zsh没有颜色解决方案
-
-非官方方法
-```shell
-echo "export TERM=xterm-256color" >> ~/.zshrc
-```
-
-[参考博客](https://www.mojidong.com/post/2017-05-14-zsh-autosuggestions/)
-
-[相关讨论](https://unix.stackexchange.com/questions/139082/zsh-set-term-screen-256color-in-tmux-but-xterm-256color-without-tmux)
+[跳转本站tmux介绍](https://blog.1314171.xyz/post/240728tmux/)
