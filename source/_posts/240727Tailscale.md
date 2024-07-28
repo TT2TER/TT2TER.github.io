@@ -1,15 +1,17 @@
 ---
 title: 最简单的内网穿透方法！Tailscale
-tags: 
-- 内网穿透
-- ipv6
-- Tailscale
-- network
-categories: 
-- 教程
-- share
+tags:
+  - 内网穿透
+  - ipv6
+  - Tailscale
+  - network
+categories:
+  - 教程
+  - share
 excerpt: 解决的需求，在没有公网跳板机的情况下访问无法外网访问的服务器。
+date: 2024-07-28 13:39:09
 ---
+
 
 # 很久没有写blog了
 很久没有写博客了，最近半年都比较忙，很多时候都没有时间写杂七杂八的东西，在这里交代一下近况，如果没有兴趣，请直接从侧边导航栏跳转到正文部分。
