@@ -937,7 +937,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/TT2TER", tip: "GitHub" }
     #- { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/Wechat.png" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "https://pic.1314171.xyz/i/2024/07/30/Wechat.png" }
     - { class: "iconfont icon-rss", link: "/atom.xml", tip: "RSS订阅" }
 
 
