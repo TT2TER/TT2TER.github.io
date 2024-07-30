@@ -652,12 +652,12 @@ post:
   custom:
     enable: false
     # content: '<img src="https://octodex.github.com/images/jetpacktocat.png" class="rounded mx-auto d-block mt-5" style="width:150px; height:150px;">'
-    content:'
-    <div style="text-align: center; margin-top: 20px;">
-      <p>今天是美好的一天_</p>
-      <br>
-      <img src="https://pic.1314171.xyz/i/2024/07/30/Wechat.png" alt="今天是美好的一天">
-    </div>'
+    content: |
+      <div style="text-align: center; margin-top: 20px;">
+        <p>今天是美好的一天_</p>
+        <br>
+        <img src="https://pic.1314171.xyz/i/2024/07/30/Wechat.png" alt="今天是美好的一天">
+      </div>
 
   # 文章图片可点击放大
   # Zoom feature of images
