@@ -64,7 +64,7 @@ code:
       # 在链接中挑选 style 填入
       # Select a style in the link
       # See: https://highlightjs.org/static/demo/
-      style: "Github Gist"
+      style: "atom-one-dark"
 
       # 是否根据 style 改变代码背景色（如果 style 是深色背景别忘了开启此项）
       # If true, the code background will change color based on the style (If style has a dark background, don't forget to true)
@@ -229,7 +229,7 @@ custom_head: '' #TODO:
 
 # 自定义底部 HTML 内容（位于 footer 上方），注意不要和 `post: custom` 配置冲突
 # Customize the HTML content at the bottom (located above the footer), be careful not to conflict with `post: custom`
-custom_html: '_今天是美好的一天_'
+custom_html: ''
 # 网页访问统计
 # Analysis of website visitors
 web_analytics:  # 网页访问统计
@@ -651,7 +651,8 @@ post:
   # Custom content at the bottom of the post page (located above the footer)
   custom:
     enable: false
-    content: '<img src="https://octodex.github.com/images/jetpacktocat.png" class="rounded mx-auto d-block mt-5" style="width:150px; height:150px;">'
+    # content: '<img src="https://octodex.github.com/images/jetpacktocat.png" class="rounded mx-auto d-block mt-5" style="width:150px; height:150px;">'
+    content:'<div style="text-align: center; margin-top: 20px;"> <p>今天是美好的一天_</p> <br> <img src="https://pic.1314171.xyz/i/2024/07/30/Wechat.png" alt="今天是美好的一天"> </div>'
 
   # 文章图片可点击放大
   # Zoom feature of images
@@ -927,7 +928,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/TT2TER", tip: "GitHub" }
     #- { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/Wechat.jpg" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/img/Wechat.png" }
     - { class: "iconfont icon-rss", link: "/atom.xml", tip: "RSS订阅" }
 
 

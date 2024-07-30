@@ -3,7 +3,7 @@ title: 威联通nas和zsh
 tags: 
 - nas
 - shell
-categories: 学习教程
+categories: 学习过程
 excerpt: 改终端
 date: 2022-07-15 00:27:37
 ---
