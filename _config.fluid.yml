@@ -656,8 +656,12 @@ post:
       <div style="text-align: center; margin-top: 20px;">
         <p>今天是美好的一天_</p>
         <br>
-        <img src="https://pic.1314171.xyz/i/2024/07/30/Wechat.png" alt="今天是美好的一天">
+        <img 
+            src="https://pic.1314171.xyz/i/2024/07/30/Wechat.png" 
+            alt="欢迎添加我的微信公众号" 
+            style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
       </div>
+
 
   # 文章图片可点击放大
   # Zoom feature of images
@@ -959,7 +963,7 @@ page404:
   banner_img: /img/Beijing.png
   banner_img_height: 85
   banner_mask_alpha: 1
-  subtitle: <script type="text/javascript" src="//www.qq.com/404/search_children.js?edition=small" charset="utf-8"></script>
+  subtitle: '页面找不到了，自动返回主页'
 
 
 #---------------------------
