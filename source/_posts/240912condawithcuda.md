@@ -4,7 +4,7 @@ tags:
   - conda
   - cuda
 categories:
-  - - 教程
+  - 教程
 excerpt: 使用conda安装cuda，避免cuda版本不匹配的问题
 date: 2024-09-12 10:02:27
 ---
